@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurant A",
+    "address": "123 Main St, City A",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "usersCount": 150,
+    "priceTier": 2,
+    "rating": 4.5,
+    "state": false
+  },
+  {
+    "id": 2,
+    "name": "Restaurant B",
+    "address": "456 Elm St, City B",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "usersCount": 200,
+    "priceTier": 3,
+    "rating": 4.8,
+    "state": false
+  },
+  {
+    "id": 3,
+    "name": "Restaurant C",
+    "address": "789 Oak St, City C",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "usersCount": 180,
+    "priceTier": 2,
+    "rating": 4.3,
+    "state": false
+  },
+  {
+    "id": 4,
+    "name": "Restaurant D",
+    "address": "101 Pine St, City D",
+    "latitude": 45.5017,
+    "longitude": -73.5673,
+    "usersCount": 220,
+    "priceTier": 3,
+    "rating": 4.6,
+    "state": false
+  },
+  {
+    "id": 5,
+    "name": "Restaurant E",
+    "address": "202 Maple St, City E",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "usersCount": 190,
+    "priceTier": 2,
+    "rating": 4.4,
+    "state": false
+  },
+  {
+    "id": 6,
+    "name": "Restaurant F",
+    "address": "303 Cedar St, City F",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "usersCount": 170,
+    "priceTier": 2,
+    "rating": 4.2,
+    "state": false
+  },
+  {
+    "id": 7,
+    "name": "Restaurant G",
+    "address": "404 Walnut St, City G",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "usersCount": 160,
+    "priceTier": 2,
+    "rating": 4.1,
+    "state": false
+  },
+  {
+    "id": 8,
+    "name": "Restaurant H",
+    "address": "505 Fir St, City H",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "usersCount": 210,
+    "priceTier": 3,
+    "rating": 4.7,
+    "state": false
+  },
+  {
+    "id": 9,
+    "name": "Restaurant I",
+    "address": "606 Pine St, City I",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "usersCount": 180,
+    "priceTier": 2,
+    "rating": 4.3,
+    "state": false
+  },
+  {
+    "id": 10,
+    "name": "Restaurant J",
+    "address": "707 Elm St, City J",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "usersCount": 190,
+    "priceTier": 2,
+    "rating": 4.4,
+    "state": false
+  },
+  {
+    "id": 11,
+    "name": "Restaurant K",
+    "address": "808 Maple St, City K",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "usersCount": 150,
+    "priceTier": 2,
+    "rating": 4.5,
+    "state": false
+  },
+  {
+    "id": 12,
+    "name": "Restaurant L",
+    "address": "909 Cedar St, City L",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "usersCount": 200,
+    "priceTier": 3,
+    "rating": 4.8,
+    "state": false
+  },
+  {
+    "id": 13,
+    "name": "Restaurant M",
+    "address": "1010 Oak St, City M",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "usersCount": 180,
+    "priceTier": 2,
+    "rating": 4.3,
+    "state": false
+  },
+  {
+    "id": 14,
+    "name": "Restaurant N",
+    "address": "1111 Pine St, City N",
+    "latitude": 45.5017,
+    "longitude": -73.5673,
+    "usersCount": 220,
+    "priceTier": 3,
+    "rating": 4.6,
+    "state": false
+  },
+  {
+    "id": 15,
+    "name": "Restaurant O",
+    "address": "1212 Elm St, City O",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "usersCount": 190,
+    "priceTier": 2,
+    "rating": 4.4,
+    "state": false
+  },
+  {
+    "id": 16,
+    "name": "Restaurant P",
+    "address": "1313 Cedar St, City P",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "usersCount": 170,
+    "priceTier": 2,
+    "rating": 4.2,
+    "state": false
+  },
+  {
+    "id": 17,
+    "name": "Restaurant Q",
+    "address": "1414 Walnut St, City Q",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "usersCount": 160,
+    "priceTier": 2,
+    "rating": 4.1,
+    "state": false
+  },
+  {
+    "id": 18,
+    "name": "Restaurant R",
+    "address": "1515 Fir St, City R",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "usersCount": 210,
+    "priceTier": 3,
+    "rating": 4.7,
+    "state": false
+  },
+  {
+    "id": 19,
+    "name": "Restaurant S",
+    "address": "1616 Pine St, City S",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "usersCount": 180,
+    "priceTier": 2,
+    "rating": 4.3,
+    "state": false
+  },
+  {
+    "id": 20,
+    "name": "Restaurant T",
+    "address": "1717 Elm St, City T",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "usersCount": 190,
+    "priceTier": 2,
+    "rating": 4.4,
+    "state": false
+  }
+]

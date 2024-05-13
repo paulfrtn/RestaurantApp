@@ -1,0 +1,90 @@
+[
+  {
+    "priceTier": 2,
+    "address": "123 Main St, City A",
+    "latitude": 40.712799072265625,
+    "name": "Le Bistro Parisien",
+    "rating": 4.5,
+    "usersCount": 150,
+    "id": 1,
+    "longitude": -74.00599670410156,
+    "indoor": 0
+  },
+  {
+    "priceTier": 3,
+    "address": "456 Elm St, City B",
+    "latitude": 41.712799072265625,
+    "name": "La Trattoria Bella",
+    "rating": 4.7,
+    "usersCount": 200,
+    "id": 2,
+    "longitude": -73.00599670410156,
+    "indoor": 1
+  },
+  {
+    "priceTier": 1,
+    "address": "789 Oak St, City C",
+    "latitude": 42.712799072265625,
+    "name": "The Rusty Spoon",
+    "rating": 4.2,
+    "usersCount": 100,
+    "id": 3,
+    "longitude": -72.00599670410156,
+    "indoor": 0
+  },
+  {
+    "priceTier": 1,
+    "address": "789 Oak St, City C",
+    "latitude": 42.712799072265625,
+    "name": "The Rusty Spoon",
+    "rating": 4.2,
+    "usersCount": 100,
+    "id": 3,
+    "longitude": -72.00599670410156,
+    "indoor": 0
+  },
+  {
+    "priceTier": 1,
+    "address": "789 Oak St, City C",
+    "latitude": 42.712799072265625,
+    "name": "The Rusty Spoon",
+    "rating": 4.2,
+    "usersCount": 100,
+    "id": 3,
+    "longitude": -72.00599670410156,
+    "indoor": 0
+  },
+  {
+    "priceTier": 2,
+    "address": "101 Maple St, City D",
+    "latitude": 43.712799072265625,
+    "name": "Sakura Sushi House",
+    "rating": 4.4,
+    "usersCount": 180,
+    "id": 4,
+    "longitude": -71.00599670410156,
+    "indoor": 1
+  },
+  {
+    "priceTier": 3,
+    "address": "202 Pine St, City E",
+    "latitude": 44.712799072265625,
+    "name": "Mediterranean Delights",
+    "rating": 4.8,
+    "usersCount": 250,
+    "id": 5,
+    "longitude": -70.00599670410156,
+    "indoor": 0
+  },
+  {
+    "priceTier": 3,
+    "address": "202 Pine St, City E",
+    "latitude": 44.712799072265625,
+    "name": "Mediterranean Delights",
+    "rating": 4.8,
+    "usersCount": 250,
+    "id": 5,
+    "longitude": -70.00599670410156,
+    "indoor": 0
+  }
+]
